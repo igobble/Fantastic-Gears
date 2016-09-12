@@ -1,0 +1,2 @@
+from fantasticgear import *
+main()
