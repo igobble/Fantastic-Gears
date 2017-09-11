@@ -1,4 +1,6 @@
 # Fantastic-Gears
+Check out the Youtube video for this project!!!!! 	Link: https://www.youtube.com/watch?v=1S2OVhVjW8w
+
 My term project “Fantastic Gears” is basically a puzzle solving game. 
 
 To run the game, you can just open termproject.py in the project source.
